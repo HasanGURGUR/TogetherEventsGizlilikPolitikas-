@@ -1,4 +1,4 @@
-# TogetherEventsGizlilikPolitikas-
+# Privacy policy
 Our Commitment to Your Privacy
 
 Thank you for using our application ("Together Events"). We are committed to protecting your privacy and ensuring the security of the information you provide to us. This Privacy Policy outlines how we collect, use, disclose, and safeguard your personal information. By accessing or using Together Events, you agree to the terms and conditions of this Privacy Policy.
